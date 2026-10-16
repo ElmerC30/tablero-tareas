@@ -12,7 +12,9 @@ Abre `index.html` en el navegador. No necesita instalar nada.
 
 ## Equipo
 
-- (agrega tu nombre)
+- Jesus Elmer Cantua 
+- Daniel Romero
+- Ilse Baynori
 
 ## Funciones agregadas en el taller
 
